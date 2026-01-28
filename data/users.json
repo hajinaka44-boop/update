@@ -302,5 +302,12 @@
     "sent_otps": {},
     "country_limits": {},
     "joined_at": "2026-01-28T00:32:02.536033"
+  },
+  "6935595331": {
+    "otpHistory": [],
+    "all_numbers": {},
+    "sent_otps": {},
+    "country_limits": {},
+    "joined_at": "2026-01-28T00:37:37.414654"
   }
 }
