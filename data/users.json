@@ -330,5 +330,12 @@
     "sent_otps": {},
     "country_limits": {},
     "joined_at": "2026-01-28T00:37:37.414654"
+  },
+  "7664831484": {
+    "otpHistory": [],
+    "all_numbers": {},
+    "sent_otps": {},
+    "country_limits": {},
+    "joined_at": "2026-01-28T02:58:47.908853"
   }
 }
