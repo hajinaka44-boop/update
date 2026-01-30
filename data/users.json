@@ -3015,7 +3015,8 @@
     },
     "sent_otps": {},
     "country_limits": {},
-    "joined_at": "2026-01-28T10:11:45.236880"
+    "joined_at": "2026-01-28T10:11:45.236880",
+    "lang": "id"
   },
   "7799837553": {
     "otpHistory": [
