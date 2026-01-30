@@ -3695,5 +3695,12 @@
     },
     "sent_otps": {},
     "country_limits": {}
+  },
+  "5822428907": {
+    "otpHistory": [],
+    "all_numbers": {},
+    "sent_otps": {},
+    "country_limits": {},
+    "joined_at": "2026-01-30T21:34:26.233585"
   }
 }
