@@ -1962,12 +1962,7 @@
     "service": "IP"
   },
   "Guinea (WS)": {
-    "numbers": [
-      "+224629625043",
-      "+224629113924",
-      "+224629703091",
-      "+224629566669"
-    ],
+    "numbers": [],
     "flag": "\ud83c\uddec\ud83c\uddf3",
     "service": "WS"
   }
