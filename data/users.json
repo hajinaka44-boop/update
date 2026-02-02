@@ -4756,5 +4756,12 @@
     "sent_otps": {},
     "country_limits": {},
     "joined_at": "2026-01-30T23:16:56.735981"
+  },
+  "5132852959": {
+    "otpHistory": [],
+    "all_numbers": {},
+    "sent_otps": {},
+    "country_limits": {},
+    "joined_at": "2026-02-02T00:05:16.406953"
   }
 }
