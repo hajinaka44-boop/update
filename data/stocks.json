@@ -311,15 +311,6 @@
     "flag": "\ud83c\uddfb\ud83c\uddea",
     "service": "WS"
   },
-  "United States (WS-TEST)": {
-    "numbers": [
-      "+1542025",
-      "+15420251",
-      "+15420252"
-    ],
-    "flag": "\ud83c\uddfa\ud83c\uddf8",
-    "service": "WS-TEST"
-  },
   "Vietnam (WS-TEST)": {
     "numbers": [
       "+84776110012",
