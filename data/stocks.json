@@ -1677,13 +1677,6 @@
     "flag": "\ud83c\uddfb\ud83c\uddea",
     "service": "WS"
   },
-  "Mauritius (WS-TEST)": {
-    "numbers": [
-      "+23052025"
-    ],
-    "flag": "\ud83c\uddf2\ud83c\uddfa",
-    "service": "WS-TEST"
-  },
   "Madagascar (WS-TEST)": {
     "numbers": [
       "+261342200569",
