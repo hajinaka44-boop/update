@@ -2529,5 +2529,14 @@
     ],
     "flag": "\ud83c\uddfa\ud83c\udde6",
     "service": "WS-P4"
+  },
+  "Algeria (TS)": {
+    "numbers": [
+      "+213656844329",
+      "+213656566538",
+      "+213656767554"
+    ],
+    "flag": "\ud83c\udde9\ud83c\uddff",
+    "service": "TS"
   }
 }
