@@ -13590,7 +13590,8 @@
     },
     "sent_otps": {},
     "country_limits": {},
-    "joined_at": "2026-02-07T16:44:14.078891"
+    "joined_at": "2026-02-07T16:44:14.078891",
+    "lang": "en"
   },
   "1314067173": {
     "otpHistory": [
