@@ -5094,7 +5094,7 @@
     "country_limits": {},
     "lang": "id",
     "mode": 2,
-    "state": null
+    "state": "WAIT_RANGE"
   },
   "6405657429": {
     "otpHistory": [],
