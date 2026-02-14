@@ -6898,7 +6898,8 @@
     "sent_otps": {},
     "country_limits": {},
     "joined_at": "2026-01-28T03:40:18.661413",
-    "mode": 2
+    "mode": 2,
+    "state": null
   },
   "1592941102": {
     "otpHistory": [],
