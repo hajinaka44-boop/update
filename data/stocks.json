@@ -471,13 +471,7 @@
     "service": "WS-NEW"
   },
   "Slovenia (WS)": {
-    "numbers": [
-      "+38669949632",
-      "+38669949759",
-      "+38669949830",
-      "+38669949888",
-      "+38669949970"
-    ],
+    "numbers": [],
     "flag": "\ud83c\uddf8\ud83c\uddee",
     "service": "WS"
   }
