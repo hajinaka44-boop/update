@@ -16989,7 +16989,7 @@
     "country_limits": {},
     "joined_at": "2026-02-11T15:14:44.451272",
     "mode": 2,
-    "state": "WAIT_RANGE"
+    "state": null
   },
   "8426078552": {
     "otpHistory": [],
