@@ -16197,7 +16197,8 @@
     },
     "sent_otps": {},
     "country_limits": {},
-    "joined_at": "2026-02-09T11:54:34.068853"
+    "joined_at": "2026-02-09T11:54:34.068853",
+    "lang": "id"
   },
   "7657722860": {
     "otpHistory": [
