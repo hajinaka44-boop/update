@@ -15582,7 +15582,14 @@
     "joined_at": "2026-02-07T16:44:14.078891",
     "lang": "en",
     "mode": 2,
-    "state": null
+    "state": null,
+    "stex_numbers": {
+      "22896217790": {
+        "last_otp": null,
+        "last_time": null
+      }
+    },
+    "stex_range": "228962XXX"
   },
   "1314067173": {
     "otpHistory": [
