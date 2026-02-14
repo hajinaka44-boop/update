@@ -5094,7 +5094,7 @@
     "country_limits": {},
     "lang": "id",
     "mode": 2,
-    "state": null,
+    "state": "WAIT_RANGE",
     "stex_numbers": {
       "2250104445967": {
         "last_otp": null,
