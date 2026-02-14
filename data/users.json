@@ -10948,7 +10948,7 @@
     },
     "country_limits": {},
     "mode": 2,
-    "state": null
+    "state": "WAIT_CARI_RANGE"
   },
   "5822428907": {
     "otpHistory": [],
