@@ -5093,7 +5093,8 @@
     },
     "country_limits": {},
     "lang": "id",
-    "mode": 2
+    "mode": 2,
+    "state": null
   },
   "6405657429": {
     "otpHistory": [],
