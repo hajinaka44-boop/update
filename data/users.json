@@ -14977,7 +14977,8 @@
     },
     "country_limits": {},
     "joined_at": "2026-02-07T02:20:06.554441",
-    "mode": 2
+    "mode": 2,
+    "state": "WAIT_CARI_RANGE"
   },
   "6376807371": {
     "otpHistory": [
@@ -15579,7 +15580,8 @@
     "sent_otps": {},
     "country_limits": {},
     "joined_at": "2026-02-07T16:44:14.078891",
-    "lang": "en"
+    "lang": "en",
+    "mode": 2
   },
   "1314067173": {
     "otpHistory": [
