@@ -14978,7 +14978,14 @@
     "country_limits": {},
     "joined_at": "2026-02-07T02:20:06.554441",
     "mode": 2,
-    "state": "WAIT_RANGE"
+    "state": null,
+    "stex_numbers": {
+      "2250151953925": {
+        "last_otp": null,
+        "last_time": null
+      }
+    },
+    "stex_range": "22501519XXX"
   },
   "6376807371": {
     "otpHistory": [
