@@ -5118,7 +5118,7 @@
     },
     "country_limits": {},
     "lang": "id",
-    "mode": 2,
+    "mode": 1,
     "state": null,
     "stex_numbers": {
       "2250104445967": {
@@ -10946,7 +10946,9 @@
       "+584165460314": "545-687",
       "+584168578495": "689-116"
     },
-    "country_limits": {}
+    "country_limits": {},
+    "mode": 2,
+    "state": "WAIT_CARI_RANGE"
   },
   "5822428907": {
     "otpHistory": [],
