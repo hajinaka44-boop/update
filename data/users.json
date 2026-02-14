@@ -17003,7 +17003,7 @@
     "country_limits": {},
     "joined_at": "2026-02-12T23:09:41.500074",
     "mode": 2,
-    "state": "WAIT_CARI_RANGE"
+    "state": null
   },
   "8199600671": {
     "otpHistory": [],
