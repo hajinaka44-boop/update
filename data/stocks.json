@@ -3214,5 +3214,26 @@
     ],
     "flag": "\ud83c\uddfb\ud83c\uddea",
     "service": "WS"
+  },
+  "Russia (KE ADDED ITU AJG)": {
+    "numbers": [
+      "+76045042"
+    ],
+    "flag": "\ud83c\uddf7\ud83c\uddfa",
+    "service": "KE ADDED ITU AJG"
+  },
+  "United States (KE ADDED ITU AJG)": {
+    "numbers": [
+      "+160923115706"
+    ],
+    "flag": "\ud83c\uddfa\ud83c\uddf8",
+    "service": "KE ADDED ITU AJG"
+  },
+  "Greece (KE ADDED ITU AJG)": {
+    "numbers": [
+      "+30150125115706"
+    ],
+    "flag": "\ud83c\uddec\ud83c\uddf7",
+    "service": "KE ADDED ITU AJG"
   }
 }
