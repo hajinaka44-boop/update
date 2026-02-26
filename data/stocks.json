@@ -728,13 +728,7 @@
     "service": "TES"
   },
   "Venezuela (TES)": {
-    "numbers": [
-      "+584162190652",
-      "+584162811338",
-      "+584162188276",
-      "+584162643639",
-      "+584162187885"
-    ],
+    "numbers": [],
     "flag": "\ud83c\uddfb\ud83c\uddea",
     "service": "TES"
   },
