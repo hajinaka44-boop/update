@@ -806,5 +806,12 @@
     "numbers": [],
     "flag": "\ud83c\uddf0\ud83c\uddec",
     "service": "T"
+  },
+  "Kyrgyzstan (B)": {
+    "numbers": [
+      "+996770019157"
+    ],
+    "flag": "\ud83c\uddf0\ud83c\uddec",
+    "service": "B"
   }
 }
