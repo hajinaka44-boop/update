@@ -1938,5 +1938,10 @@
     ],
     "flag": "\ud83c\uddfb\ud83c\uddf3",
     "service": "WS-P1"
+  },
+  "Afghanistan (CEK)": {
+    "numbers": [],
+    "flag": "\ud83c\udde6\ud83c\uddeb",
+    "service": "CEK"
   }
 }
